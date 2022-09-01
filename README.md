@@ -1,2 +1,5 @@
-# linked-list
-Implementation of a linked list using JavaScript
+# LINKED LIST
+
+Implementation of a singly linked list using JavaScript
+
+## Lessons Learned:
